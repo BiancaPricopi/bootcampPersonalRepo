@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello people
+=======
+hello bianca
+>>>>>>> develop_bianca
